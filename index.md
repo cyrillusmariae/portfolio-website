@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Freelance Roman Catholic Writer and Content Creator based in Walsingham, Norfolk, United Kingdom. I'm also a volunteer for EWTN Great Britain since June 2026, I have gained valuable experience in videography, writing, editing, and interviewing while covering a variety of Catholic events across the UK.
+I am a Freelance Roman Catholic Writer and Content Creator originally from Hong Kong, currently based in Walsingham, Norfolk, United Kingdom.
+
+I'm also a volunteer for EWTN Great Britain since June 2026, I have gained valuable experience in videography, writing, editing, and interviewing while covering a variety of Catholic events across the UK.
 
 ## Research Interests
 
